@@ -170,6 +170,6 @@ void LandScanApplication::shutdown() {
         std::cerr << "[Postprocess] Attitude validation failed" << std::endl;
     }
 
-    std::cout << "[INFO] LandScanApplication shutdown complete22" << std::endl;
+    std::cout << "[INFO] LandScanApplication shutdown complete2211" << std::endl;
 }
 
