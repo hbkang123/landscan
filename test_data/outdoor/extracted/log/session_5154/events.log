@@ -1,0 +1,4 @@
+5154,navigation_recording_started
+5165,rtk_position_info_changed previous=none current=0
+5363,rtk_position_info_changed previous=0 current=50
+108563,navigation_recording_stopped

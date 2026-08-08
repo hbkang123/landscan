@@ -1,0 +1,4 @@
+/home/skylogic/landscan/build/CMakeFiles/sf45.dir
+/home/skylogic/landscan/build/CMakeFiles/landscan.dir
+/home/skylogic/landscan/build/CMakeFiles/edit_cache.dir
+/home/skylogic/landscan/build/CMakeFiles/rebuild_cache.dir

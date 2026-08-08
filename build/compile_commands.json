@@ -1,0 +1,182 @@
+[
+{
+  "directory": "/home/skylogic/landscan/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -I/home/skylogic/landscan/third_party/sf45 -I/home/skylogic/landscan/third_party/sf45/linux -g -std=gnu++17 -o CMakeFiles/sf45.dir/third_party/sf45/lwNx.cpp.o -c /home/skylogic/landscan/third_party/sf45/lwNx.cpp",
+  "file": "/home/skylogic/landscan/third_party/sf45/lwNx.cpp",
+  "output": "CMakeFiles/sf45.dir/third_party/sf45/lwNx.cpp.o"
+},
+{
+  "directory": "/home/skylogic/landscan/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -I/home/skylogic/landscan/third_party/sf45 -I/home/skylogic/landscan/third_party/sf45/linux -g -std=gnu++17 -o CMakeFiles/sf45.dir/third_party/sf45/linux/lwSerialPortLinux.cpp.o -c /home/skylogic/landscan/third_party/sf45/linux/lwSerialPortLinux.cpp",
+  "file": "/home/skylogic/landscan/third_party/sf45/linux/lwSerialPortLinux.cpp",
+  "output": "CMakeFiles/sf45.dir/third_party/sf45/linux/lwSerialPortLinux.cpp.o"
+},
+{
+  "directory": "/home/skylogic/landscan/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -I/home/skylogic/landscan/third_party/sf45 -I/home/skylogic/landscan/third_party/sf45/linux -g -std=gnu++17 -o CMakeFiles/sf45.dir/third_party/sf45/linux/platformLinux.cpp.o -c /home/skylogic/landscan/third_party/sf45/linux/platformLinux.cpp",
+  "file": "/home/skylogic/landscan/third_party/sf45/linux/platformLinux.cpp",
+  "output": "CMakeFiles/sf45.dir/third_party/sf45/linux/platformLinux.cpp.o"
+},
+{
+  "directory": "/home/skylogic/landscan/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -I/home/skylogic/landscan/include -I/home/skylogic/landscan/third_party/psdk/include -I/home/skylogic/landscan/third_party/psdk/platform/application -I/home/skylogic/landscan/third_party/psdk/platform/hal -I/home/skylogic/landscan/third_party/psdk/platform/common -I/home/skylogic/landscan/third_party/psdk/platform/common/osal -I/home/skylogic/landscan/third_party/sf45 -I/home/skylogic/landscan/third_party/sf45/linux -g -std=gnu++17 -o CMakeFiles/landscan.dir/src/main.cpp.o -c /home/skylogic/landscan/src/main.cpp",
+  "file": "/home/skylogic/landscan/src/main.cpp",
+  "output": "CMakeFiles/landscan.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/skylogic/landscan/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -I/home/skylogic/landscan/include -I/home/skylogic/landscan/third_party/psdk/include -I/home/skylogic/landscan/third_party/psdk/platform/application -I/home/skylogic/landscan/third_party/psdk/platform/hal -I/home/skylogic/landscan/third_party/psdk/platform/common -I/home/skylogic/landscan/third_party/psdk/platform/common/osal -I/home/skylogic/landscan/third_party/sf45 -I/home/skylogic/landscan/third_party/sf45/linux -g -std=gnu++17 -o CMakeFiles/landscan.dir/src/landscan_application.cpp.o -c /home/skylogic/landscan/src/landscan_application.cpp",
+  "file": "/home/skylogic/landscan/src/landscan_application.cpp",
+  "output": "CMakeFiles/landscan.dir/src/landscan_application.cpp.o"
+},
+{
+  "directory": "/home/skylogic/landscan/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -I/home/skylogic/landscan/include -I/home/skylogic/landscan/third_party/psdk/include -I/home/skylogic/landscan/third_party/psdk/platform/application -I/home/skylogic/landscan/third_party/psdk/platform/hal -I/home/skylogic/landscan/third_party/psdk/platform/common -I/home/skylogic/landscan/third_party/psdk/platform/common/osal -I/home/skylogic/landscan/third_party/sf45 -I/home/skylogic/landscan/third_party/sf45/linux -g -std=gnu++17 -o CMakeFiles/landscan.dir/src/payload_manager.cpp.o -c /home/skylogic/landscan/src/payload_manager.cpp",
+  "file": "/home/skylogic/landscan/src/payload_manager.cpp",
+  "output": "CMakeFiles/landscan.dir/src/payload_manager.cpp.o"
+},
+{
+  "directory": "/home/skylogic/landscan/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -I/home/skylogic/landscan/include -I/home/skylogic/landscan/third_party/psdk/include -I/home/skylogic/landscan/third_party/psdk/platform/application -I/home/skylogic/landscan/third_party/psdk/platform/hal -I/home/skylogic/landscan/third_party/psdk/platform/common -I/home/skylogic/landscan/third_party/psdk/platform/common/osal -I/home/skylogic/landscan/third_party/sf45 -I/home/skylogic/landscan/third_party/sf45/linux -g -std=gnu++17 -o CMakeFiles/landscan.dir/src/positioning_manager.cpp.o -c /home/skylogic/landscan/src/positioning_manager.cpp",
+  "file": "/home/skylogic/landscan/src/positioning_manager.cpp",
+  "output": "CMakeFiles/landscan.dir/src/positioning_manager.cpp.o"
+},
+{
+  "directory": "/home/skylogic/landscan/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -I/home/skylogic/landscan/include -I/home/skylogic/landscan/third_party/psdk/include -I/home/skylogic/landscan/third_party/psdk/platform/application -I/home/skylogic/landscan/third_party/psdk/platform/hal -I/home/skylogic/landscan/third_party/psdk/platform/common -I/home/skylogic/landscan/third_party/psdk/platform/common/osal -I/home/skylogic/landscan/third_party/sf45 -I/home/skylogic/landscan/third_party/sf45/linux -g -std=gnu++17 -o CMakeFiles/landscan.dir/src/pps_manager.cpp.o -c /home/skylogic/landscan/src/pps_manager.cpp",
+  "file": "/home/skylogic/landscan/src/pps_manager.cpp",
+  "output": "CMakeFiles/landscan.dir/src/pps_manager.cpp.o"
+},
+{
+  "directory": "/home/skylogic/landscan/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -I/home/skylogic/landscan/include -I/home/skylogic/landscan/third_party/psdk/include -I/home/skylogic/landscan/third_party/psdk/platform/application -I/home/skylogic/landscan/third_party/psdk/platform/hal -I/home/skylogic/landscan/third_party/psdk/platform/common -I/home/skylogic/landscan/third_party/psdk/platform/common/osal -I/home/skylogic/landscan/third_party/sf45 -I/home/skylogic/landscan/third_party/sf45/linux -g -std=gnu++17 -o CMakeFiles/landscan.dir/src/navigation_manager.cpp.o -c /home/skylogic/landscan/src/navigation_manager.cpp",
+  "file": "/home/skylogic/landscan/src/navigation_manager.cpp",
+  "output": "CMakeFiles/landscan.dir/src/navigation_manager.cpp.o"
+},
+{
+  "directory": "/home/skylogic/landscan/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -I/home/skylogic/landscan/include -I/home/skylogic/landscan/third_party/psdk/include -I/home/skylogic/landscan/third_party/psdk/platform/application -I/home/skylogic/landscan/third_party/psdk/platform/hal -I/home/skylogic/landscan/third_party/psdk/platform/common -I/home/skylogic/landscan/third_party/psdk/platform/common/osal -I/home/skylogic/landscan/third_party/sf45 -I/home/skylogic/landscan/third_party/sf45/linux -g -std=gnu++17 -o CMakeFiles/landscan.dir/src/navigation_data_recorder.cpp.o -c /home/skylogic/landscan/src/navigation_data_recorder.cpp",
+  "file": "/home/skylogic/landscan/src/navigation_data_recorder.cpp",
+  "output": "CMakeFiles/landscan.dir/src/navigation_data_recorder.cpp.o"
+},
+{
+  "directory": "/home/skylogic/landscan/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -I/home/skylogic/landscan/include -I/home/skylogic/landscan/third_party/psdk/include -I/home/skylogic/landscan/third_party/psdk/platform/application -I/home/skylogic/landscan/third_party/psdk/platform/hal -I/home/skylogic/landscan/third_party/psdk/platform/common -I/home/skylogic/landscan/third_party/psdk/platform/common/osal -I/home/skylogic/landscan/third_party/sf45 -I/home/skylogic/landscan/third_party/sf45/linux -g -std=gnu++17 -o CMakeFiles/landscan.dir/src/timesync_manager.cpp.o -c /home/skylogic/landscan/src/timesync_manager.cpp",
+  "file": "/home/skylogic/landscan/src/timesync_manager.cpp",
+  "output": "CMakeFiles/landscan.dir/src/timesync_manager.cpp.o"
+},
+{
+  "directory": "/home/skylogic/landscan/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -I/home/skylogic/landscan/include -I/home/skylogic/landscan/third_party/psdk/include -I/home/skylogic/landscan/third_party/psdk/platform/application -I/home/skylogic/landscan/third_party/psdk/platform/hal -I/home/skylogic/landscan/third_party/psdk/platform/common -I/home/skylogic/landscan/third_party/psdk/platform/common/osal -I/home/skylogic/landscan/third_party/sf45 -I/home/skylogic/landscan/third_party/sf45/linux -g -std=gnu++17 -o CMakeFiles/landscan.dir/src/lidar_manager.cpp.o -c /home/skylogic/landscan/src/lidar_manager.cpp",
+  "file": "/home/skylogic/landscan/src/lidar_manager.cpp",
+  "output": "CMakeFiles/landscan.dir/src/lidar_manager.cpp.o"
+},
+{
+  "directory": "/home/skylogic/landscan/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -I/home/skylogic/landscan/include -I/home/skylogic/landscan/third_party/psdk/include -I/home/skylogic/landscan/third_party/psdk/platform/application -I/home/skylogic/landscan/third_party/psdk/platform/hal -I/home/skylogic/landscan/third_party/psdk/platform/common -I/home/skylogic/landscan/third_party/psdk/platform/common/osal -I/home/skylogic/landscan/third_party/sf45 -I/home/skylogic/landscan/third_party/sf45/linux -g -std=gnu++17 -o CMakeFiles/landscan.dir/src/lidar_time_estimator.cpp.o -c /home/skylogic/landscan/src/lidar_time_estimator.cpp",
+  "file": "/home/skylogic/landscan/src/lidar_time_estimator.cpp",
+  "output": "CMakeFiles/landscan.dir/src/lidar_time_estimator.cpp.o"
+},
+{
+  "directory": "/home/skylogic/landscan/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -I/home/skylogic/landscan/include -I/home/skylogic/landscan/third_party/psdk/include -I/home/skylogic/landscan/third_party/psdk/platform/application -I/home/skylogic/landscan/third_party/psdk/platform/hal -I/home/skylogic/landscan/third_party/psdk/platform/common -I/home/skylogic/landscan/third_party/psdk/platform/common/osal -I/home/skylogic/landscan/third_party/sf45 -I/home/skylogic/landscan/third_party/sf45/linux -g -std=gnu++17 -o CMakeFiles/landscan.dir/src/postprocess_data_loader.cpp.o -c /home/skylogic/landscan/src/postprocess_data_loader.cpp",
+  "file": "/home/skylogic/landscan/src/postprocess_data_loader.cpp",
+  "output": "CMakeFiles/landscan.dir/src/postprocess_data_loader.cpp.o"
+},
+{
+  "directory": "/home/skylogic/landscan/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -I/home/skylogic/landscan/include -I/home/skylogic/landscan/third_party/psdk/include -I/home/skylogic/landscan/third_party/psdk/platform/application -I/home/skylogic/landscan/third_party/psdk/platform/hal -I/home/skylogic/landscan/third_party/psdk/platform/common -I/home/skylogic/landscan/third_party/psdk/platform/common/osal -I/home/skylogic/landscan/third_party/sf45 -I/home/skylogic/landscan/third_party/sf45/linux -g -std=gnu++17 -o CMakeFiles/landscan.dir/src/postprocess_manager.cpp.o -c /home/skylogic/landscan/src/postprocess_manager.cpp",
+  "file": "/home/skylogic/landscan/src/postprocess_manager.cpp",
+  "output": "CMakeFiles/landscan.dir/src/postprocess_manager.cpp.o"
+},
+{
+  "directory": "/home/skylogic/landscan/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -I/home/skylogic/landscan/include -I/home/skylogic/landscan/third_party/psdk/include -I/home/skylogic/landscan/third_party/psdk/platform/application -I/home/skylogic/landscan/third_party/psdk/platform/hal -I/home/skylogic/landscan/third_party/psdk/platform/common -I/home/skylogic/landscan/third_party/psdk/platform/common/osal -I/home/skylogic/landscan/third_party/sf45 -I/home/skylogic/landscan/third_party/sf45/linux -g -std=gnu++17 -o CMakeFiles/landscan.dir/src/postprocess_interpolator.cpp.o -c /home/skylogic/landscan/src/postprocess_interpolator.cpp",
+  "file": "/home/skylogic/landscan/src/postprocess_interpolator.cpp",
+  "output": "CMakeFiles/landscan.dir/src/postprocess_interpolator.cpp.o"
+},
+{
+  "directory": "/home/skylogic/landscan/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -I/home/skylogic/landscan/include -I/home/skylogic/landscan/third_party/psdk/include -I/home/skylogic/landscan/third_party/psdk/platform/application -I/home/skylogic/landscan/third_party/psdk/platform/hal -I/home/skylogic/landscan/third_party/psdk/platform/common -I/home/skylogic/landscan/third_party/psdk/platform/common/osal -I/home/skylogic/landscan/third_party/sf45 -I/home/skylogic/landscan/third_party/sf45/linux -g -std=gnu++17 -o CMakeFiles/landscan.dir/src/postprocess_coordinate_transformer.cpp.o -c /home/skylogic/landscan/src/postprocess_coordinate_transformer.cpp",
+  "file": "/home/skylogic/landscan/src/postprocess_coordinate_transformer.cpp",
+  "output": "CMakeFiles/landscan.dir/src/postprocess_coordinate_transformer.cpp.o"
+},
+{
+  "directory": "/home/skylogic/landscan/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -I/home/skylogic/landscan/include -I/home/skylogic/landscan/third_party/psdk/include -I/home/skylogic/landscan/third_party/psdk/platform/application -I/home/skylogic/landscan/third_party/psdk/platform/hal -I/home/skylogic/landscan/third_party/psdk/platform/common -I/home/skylogic/landscan/third_party/psdk/platform/common/osal -I/home/skylogic/landscan/third_party/sf45 -I/home/skylogic/landscan/third_party/sf45/linux -g -std=gnu++17 -o CMakeFiles/landscan.dir/src/postprocess_crs_transformer.cpp.o -c /home/skylogic/landscan/src/postprocess_crs_transformer.cpp",
+  "file": "/home/skylogic/landscan/src/postprocess_crs_transformer.cpp",
+  "output": "CMakeFiles/landscan.dir/src/postprocess_crs_transformer.cpp.o"
+},
+{
+  "directory": "/home/skylogic/landscan/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -I/home/skylogic/landscan/include -I/home/skylogic/landscan/third_party/psdk/include -I/home/skylogic/landscan/third_party/psdk/platform/application -I/home/skylogic/landscan/third_party/psdk/platform/hal -I/home/skylogic/landscan/third_party/psdk/platform/common -I/home/skylogic/landscan/third_party/psdk/platform/common/osal -I/home/skylogic/landscan/third_party/sf45 -I/home/skylogic/landscan/third_party/sf45/linux -g -std=gnu++17 -o CMakeFiles/landscan.dir/src/postprocess_point_cloud_generator.cpp.o -c /home/skylogic/landscan/src/postprocess_point_cloud_generator.cpp",
+  "file": "/home/skylogic/landscan/src/postprocess_point_cloud_generator.cpp",
+  "output": "CMakeFiles/landscan.dir/src/postprocess_point_cloud_generator.cpp.o"
+},
+{
+  "directory": "/home/skylogic/landscan/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -I/home/skylogic/landscan/include -I/home/skylogic/landscan/third_party/psdk/include -I/home/skylogic/landscan/third_party/psdk/platform/application -I/home/skylogic/landscan/third_party/psdk/platform/hal -I/home/skylogic/landscan/third_party/psdk/platform/common -I/home/skylogic/landscan/third_party/psdk/platform/common/osal -I/home/skylogic/landscan/third_party/sf45 -I/home/skylogic/landscan/third_party/sf45/linux -g -std=gnu++17 -o CMakeFiles/landscan.dir/src/postprocess_point_cloud_projector.cpp.o -c /home/skylogic/landscan/src/postprocess_point_cloud_projector.cpp",
+  "file": "/home/skylogic/landscan/src/postprocess_point_cloud_projector.cpp",
+  "output": "CMakeFiles/landscan.dir/src/postprocess_point_cloud_projector.cpp.o"
+},
+{
+  "directory": "/home/skylogic/landscan/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -I/home/skylogic/landscan/include -I/home/skylogic/landscan/third_party/psdk/include -I/home/skylogic/landscan/third_party/psdk/platform/application -I/home/skylogic/landscan/third_party/psdk/platform/hal -I/home/skylogic/landscan/third_party/psdk/platform/common -I/home/skylogic/landscan/third_party/psdk/platform/common/osal -I/home/skylogic/landscan/third_party/sf45 -I/home/skylogic/landscan/third_party/sf45/linux -g -std=gnu++17 -o CMakeFiles/landscan.dir/src/postprocess_point_cloud_writer.cpp.o -c /home/skylogic/landscan/src/postprocess_point_cloud_writer.cpp",
+  "file": "/home/skylogic/landscan/src/postprocess_point_cloud_writer.cpp",
+  "output": "CMakeFiles/landscan.dir/src/postprocess_point_cloud_writer.cpp.o"
+},
+{
+  "directory": "/home/skylogic/landscan/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -I/home/skylogic/landscan/include -I/home/skylogic/landscan/third_party/psdk/include -I/home/skylogic/landscan/third_party/psdk/platform/application -I/home/skylogic/landscan/third_party/psdk/platform/hal -I/home/skylogic/landscan/third_party/psdk/platform/common -I/home/skylogic/landscan/third_party/psdk/platform/common/osal -I/home/skylogic/landscan/third_party/sf45 -I/home/skylogic/landscan/third_party/sf45/linux -g -std=gnu++17 -o CMakeFiles/landscan.dir/src/runtime_config.cpp.o -c /home/skylogic/landscan/src/runtime_config.cpp",
+  "file": "/home/skylogic/landscan/src/runtime_config.cpp",
+  "output": "CMakeFiles/landscan.dir/src/runtime_config.cpp.o"
+},
+{
+  "directory": "/home/skylogic/landscan/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -I/home/skylogic/landscan/include -I/home/skylogic/landscan/third_party/psdk/include -I/home/skylogic/landscan/third_party/psdk/platform/application -I/home/skylogic/landscan/third_party/psdk/platform/hal -I/home/skylogic/landscan/third_party/psdk/platform/common -I/home/skylogic/landscan/third_party/psdk/platform/common/osal -I/home/skylogic/landscan/third_party/sf45 -I/home/skylogic/landscan/third_party/sf45/linux -g -std=gnu++17 -o CMakeFiles/landscan.dir/third_party/psdk/platform/application/application.cpp.o -c /home/skylogic/landscan/third_party/psdk/platform/application/application.cpp",
+  "file": "/home/skylogic/landscan/third_party/psdk/platform/application/application.cpp",
+  "output": "CMakeFiles/landscan.dir/third_party/psdk/platform/application/application.cpp.o"
+},
+{
+  "directory": "/home/skylogic/landscan/build",
+  "command": "/usr/bin/aarch64-linux-gnu-gcc  -I/home/skylogic/landscan/include -I/home/skylogic/landscan/third_party/psdk/include -I/home/skylogic/landscan/third_party/psdk/platform/application -I/home/skylogic/landscan/third_party/psdk/platform/hal -I/home/skylogic/landscan/third_party/psdk/platform/common -I/home/skylogic/landscan/third_party/psdk/platform/common/osal -I/home/skylogic/landscan/third_party/sf45 -I/home/skylogic/landscan/third_party/sf45/linux -g -o CMakeFiles/landscan.dir/third_party/psdk/platform/common/osal/osal.c.o -c /home/skylogic/landscan/third_party/psdk/platform/common/osal/osal.c",
+  "file": "/home/skylogic/landscan/third_party/psdk/platform/common/osal/osal.c",
+  "output": "CMakeFiles/landscan.dir/third_party/psdk/platform/common/osal/osal.c.o"
+},
+{
+  "directory": "/home/skylogic/landscan/build",
+  "command": "/usr/bin/aarch64-linux-gnu-gcc  -I/home/skylogic/landscan/include -I/home/skylogic/landscan/third_party/psdk/include -I/home/skylogic/landscan/third_party/psdk/platform/application -I/home/skylogic/landscan/third_party/psdk/platform/hal -I/home/skylogic/landscan/third_party/psdk/platform/common -I/home/skylogic/landscan/third_party/psdk/platform/common/osal -I/home/skylogic/landscan/third_party/sf45 -I/home/skylogic/landscan/third_party/sf45/linux -g -o CMakeFiles/landscan.dir/third_party/psdk/platform/common/osal/osal_fs.c.o -c /home/skylogic/landscan/third_party/psdk/platform/common/osal/osal_fs.c",
+  "file": "/home/skylogic/landscan/third_party/psdk/platform/common/osal/osal_fs.c",
+  "output": "CMakeFiles/landscan.dir/third_party/psdk/platform/common/osal/osal_fs.c.o"
+},
+{
+  "directory": "/home/skylogic/landscan/build",
+  "command": "/usr/bin/aarch64-linux-gnu-gcc  -I/home/skylogic/landscan/include -I/home/skylogic/landscan/third_party/psdk/include -I/home/skylogic/landscan/third_party/psdk/platform/application -I/home/skylogic/landscan/third_party/psdk/platform/hal -I/home/skylogic/landscan/third_party/psdk/platform/common -I/home/skylogic/landscan/third_party/psdk/platform/common/osal -I/home/skylogic/landscan/third_party/sf45 -I/home/skylogic/landscan/third_party/sf45/linux -g -o CMakeFiles/landscan.dir/third_party/psdk/platform/common/osal/osal_socket.c.o -c /home/skylogic/landscan/third_party/psdk/platform/common/osal/osal_socket.c",
+  "file": "/home/skylogic/landscan/third_party/psdk/platform/common/osal/osal_socket.c",
+  "output": "CMakeFiles/landscan.dir/third_party/psdk/platform/common/osal/osal_socket.c.o"
+},
+{
+  "directory": "/home/skylogic/landscan/build",
+  "command": "/usr/bin/aarch64-linux-gnu-gcc  -I/home/skylogic/landscan/include -I/home/skylogic/landscan/third_party/psdk/include -I/home/skylogic/landscan/third_party/psdk/platform/application -I/home/skylogic/landscan/third_party/psdk/platform/hal -I/home/skylogic/landscan/third_party/psdk/platform/common -I/home/skylogic/landscan/third_party/psdk/platform/common/osal -I/home/skylogic/landscan/third_party/sf45 -I/home/skylogic/landscan/third_party/sf45/linux -g -o CMakeFiles/landscan.dir/third_party/psdk/platform/hal/hal_uart.c.o -c /home/skylogic/landscan/third_party/psdk/platform/hal/hal_uart.c",
+  "file": "/home/skylogic/landscan/third_party/psdk/platform/hal/hal_uart.c",
+  "output": "CMakeFiles/landscan.dir/third_party/psdk/platform/hal/hal_uart.c.o"
+},
+{
+  "directory": "/home/skylogic/landscan/build",
+  "command": "/usr/bin/aarch64-linux-gnu-gcc  -I/home/skylogic/landscan/include -I/home/skylogic/landscan/third_party/psdk/include -I/home/skylogic/landscan/third_party/psdk/platform/application -I/home/skylogic/landscan/third_party/psdk/platform/hal -I/home/skylogic/landscan/third_party/psdk/platform/common -I/home/skylogic/landscan/third_party/psdk/platform/common/osal -I/home/skylogic/landscan/third_party/sf45 -I/home/skylogic/landscan/third_party/sf45/linux -g -o CMakeFiles/landscan.dir/third_party/psdk/platform/hal/hal_i2c.c.o -c /home/skylogic/landscan/third_party/psdk/platform/hal/hal_i2c.c",
+  "file": "/home/skylogic/landscan/third_party/psdk/platform/hal/hal_i2c.c",
+  "output": "CMakeFiles/landscan.dir/third_party/psdk/platform/hal/hal_i2c.c.o"
+},
+{
+  "directory": "/home/skylogic/landscan/build",
+  "command": "/usr/bin/aarch64-linux-gnu-gcc  -I/home/skylogic/landscan/include -I/home/skylogic/landscan/third_party/psdk/include -I/home/skylogic/landscan/third_party/psdk/platform/application -I/home/skylogic/landscan/third_party/psdk/platform/hal -I/home/skylogic/landscan/third_party/psdk/platform/common -I/home/skylogic/landscan/third_party/psdk/platform/common/osal -I/home/skylogic/landscan/third_party/sf45 -I/home/skylogic/landscan/third_party/sf45/linux -g -o CMakeFiles/landscan.dir/third_party/psdk/platform/hal/hal_network.c.o -c /home/skylogic/landscan/third_party/psdk/platform/hal/hal_network.c",
+  "file": "/home/skylogic/landscan/third_party/psdk/platform/hal/hal_network.c",
+  "output": "CMakeFiles/landscan.dir/third_party/psdk/platform/hal/hal_network.c.o"
+},
+{
+  "directory": "/home/skylogic/landscan/build",
+  "command": "/usr/bin/aarch64-linux-gnu-gcc  -I/home/skylogic/landscan/include -I/home/skylogic/landscan/third_party/psdk/include -I/home/skylogic/landscan/third_party/psdk/platform/application -I/home/skylogic/landscan/third_party/psdk/platform/hal -I/home/skylogic/landscan/third_party/psdk/platform/common -I/home/skylogic/landscan/third_party/psdk/platform/common/osal -I/home/skylogic/landscan/third_party/sf45 -I/home/skylogic/landscan/third_party/sf45/linux -g -o CMakeFiles/landscan.dir/third_party/psdk/platform/hal/hal_usb_bulk.c.o -c /home/skylogic/landscan/third_party/psdk/platform/hal/hal_usb_bulk.c",
+  "file": "/home/skylogic/landscan/third_party/psdk/platform/hal/hal_usb_bulk.c",
+  "output": "CMakeFiles/landscan.dir/third_party/psdk/platform/hal/hal_usb_bulk.c.o"
+}
+]

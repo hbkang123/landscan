@@ -1,0 +1,2 @@
+/usr/bin/aarch64-linux-gnu-ar qc libsf45.a CMakeFiles/sf45.dir/third_party/sf45/lwNx.cpp.o CMakeFiles/sf45.dir/third_party/sf45/linux/lwSerialPortLinux.cpp.o CMakeFiles/sf45.dir/third_party/sf45/linux/platformLinux.cpp.o
+/usr/bin/aarch64-linux-gnu-ranlib libsf45.a
